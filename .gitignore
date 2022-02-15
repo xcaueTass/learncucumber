@@ -1,0 +1,6 @@
+# Compiled
+*.settings
+*.project
+*.classpath
+
+/target/
